@@ -17,6 +17,7 @@ checks==0.2
 ConfigParser==6.0.1
 contextlib2==21.6.0
 cryptography==42.0.5
+ctypes_snappy==1.2
 cycler==0.12.1
 Cython==3.0.9
 cytoolz==0.12.3
@@ -93,7 +94,7 @@ sets==0.3.2
 setuptools==69.2.0
 setuptools_scm==8.0.4
 simplejson==3.19.2
-snowflake==0.7.0
+snowflake==0.0.4
 Sphinx==7.2.6
 SQLAlchemy==2.0.28
 sympy==1.12
